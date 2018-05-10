@@ -1,0 +1,29 @@
+{
+    "workbench.colorTheme": "Coda Classic",
+    "julia.executablePath": "julia",
+    "files.associations": {"*.pp":"pascal"},
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 16,
+    "editor.cursorBlinking": "expand",
+    "editor.renderLineHighlight": "all",
+    "editor.tokenColorCustomizations": {
+        "[Coda Classic]": {
+            "keywords": "#ff29c9",
+            "functions": "#254bf5",
+            "numbers": "#f89729",
+            "textMateRules": [
+                {
+                    "scope": "string",
+                    "settings": {
+                        "fontStyle": "italic"
+                    }
+                }
+            ]
+        }
+    },
+    "workbench.colorCustomizations":{
+        "editor.lineHighlightBackground": "#F8F8F8",
+        "editor.lineHighlightBorder": "#C6C6C6",
+        "editor.selectionHighlightBackground": "#f3c9a6"
+    }
+}
