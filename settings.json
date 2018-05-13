@@ -29,5 +29,8 @@
     },
     // misc
     "julia.executablePath": "julia",
-    "files.associations": {"*.pp":"pascal"},
+    "files.associations": {
+        "*.pp": "pascal"
+    },
+    "julia.enableTelemetry": false,
 }
